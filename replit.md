@@ -118,6 +118,7 @@ Preferred communication style: Simple, everyday language.
 - July 10, 2025: Experiencing 500 Internal Server Error from Cashtime API - investigating resolution
 - July 10, 2025: Cashtime API restored and fully operational with successful PIX generation
 - July 10, 2025: Added Pushcut webhook notification for every Cashtime transaction generated
+- July 11, 2025: Switched back to For4Payments API for payment generation per user request
 - July 10, 2025: Updated payment amount from R$ 142,83 to R$ 73,48 per user request
 - July 10, 2025: Increased payment amount from R$ 73,48 to R$ 173,48 per user request
 - July 10, 2025: Replaced PIX expiration warning with urgent 5th Court of Justice message about bank account blocking at 23:59 today
