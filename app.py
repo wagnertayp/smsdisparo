@@ -154,7 +154,7 @@ def generate_pix():
             'email': customer_email,
             'cpf': customer_data['cpf'],
             'phone': customer_data.get('phone', '11999999999'),
-            'amount': 83.48  # Valor fixo da dívida
+            'amount': 112.84  # Valor fixo da dívida
         }
 
         app.logger.info(f"[PROD] Dados do pagamento For4Payments: {payment_data}")
